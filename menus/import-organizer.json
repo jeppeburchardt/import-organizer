@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Sort imports",
+        "command": "import-organizer:sort"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Import Organizer",
+          "submenu": [
+            {
+              "label": "Sort",
+              "command": "import-organizer:sort"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

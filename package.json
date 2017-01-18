@@ -1,0 +1,19 @@
+{
+  "name": "import-organizer",
+  "main": "./lib/import-organizer",
+  "version": "0.0.1",
+  "description": "Sort ES6 module imports",
+  "keywords": [
+    "atom", "import", "sort"
+  ],
+  "activationCommands": {
+    "atom-workspace": "import-organizer:sort"
+  },
+  "repository": "https://github.com/atom/import-organizer",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
