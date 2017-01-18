@@ -4,7 +4,9 @@
   "version": "0.0.1",
   "description": "Sort ES6 module imports",
   "keywords": [
-    "atom", "import", "sort"
+    "atom",
+    "import",
+    "sort"
   ],
   "activationCommands": {
     "atom-workspace": "import-organizer:sort"
@@ -14,6 +16,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
