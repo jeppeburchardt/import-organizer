@@ -6,7 +6,9 @@
   "keywords": [
     "atom",
     "import",
-    "sort"
+    "sort",
+    "javascript",
+    "es6"
   ],
   "activationCommands": {
     "atom-workspace": "import-organizer:sort"
